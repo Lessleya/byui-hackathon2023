@@ -1,6 +1,7 @@
 import './App.css';
 import About from './page/About';
 import Home from './page/Home';
+import Categories from './page/Categories';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
      BYUI Hackathon
      <Home />
      <About />
+     <Categories />
     </div>
   );
 }
