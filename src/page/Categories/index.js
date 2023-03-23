@@ -1,11 +1,11 @@
 import React from 'react';
 import Card from './card';
 import './styles.css';
-import image1 from '../../image/image8.png';
-import image2 from '../../image/image9.png';
-import image3 from '../../image/image10.png';
-import image4 from '../../image/image11.png';
-import image5 from '../../image/image12.png';
+import image1 from '../../image/image1.png';
+import image2 from '../../image/image2.png';
+import image3 from '../../image/image3.png';
+import image4 from '../../image/image4.png';
+import image5 from '../../image/image5.png';
 
 function Categories({title,imageurl,body }) {
   return (

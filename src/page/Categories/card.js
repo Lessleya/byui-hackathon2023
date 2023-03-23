@@ -6,7 +6,6 @@ function Card({title,imageurl,body}) {
   return (
     <div className='card-container'>
         <div className='image-contaniner'>
-            <img className='white' src={white} alt='' />
             <img className='card-image' src={imageurl} alt='' />
         </div>
         <div className='text-container'>
