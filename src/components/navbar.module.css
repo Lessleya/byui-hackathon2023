@@ -1,0 +1,38 @@
+.navContainer {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  background-color: black;
+  padding: 1.5rem 0rem;
+  font-family: "Raleway";
+  font-style: none;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
+.navBar a {
+  text-decoration: none;
+  color: white;
+  padding: 1rem;
+}
+
+.navBar a:visited {
+  color: white;
+}
+
+.logoStyle {
+  color: white;
+}
+
+.registerButton {
+  padding: 0.5rem;
+  color: black;
+  background-color: #73d468;
+  border: none;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 14px;
+}
