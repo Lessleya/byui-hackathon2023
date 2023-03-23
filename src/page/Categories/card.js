@@ -1,6 +1,5 @@
 import React from 'react';
 import './card.css';
-import white from '../../image/white.png';
 
 function Card({title,imageurl,body}) {
   return (
