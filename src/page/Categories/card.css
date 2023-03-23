@@ -1,0 +1,47 @@
+.card-contaniner{
+    width: 100%;
+    box-shadow: 0px 0px 15px -5px;
+    border-radius: 15px;
+    cursor: pointer;
+    position: relative;
+    transition: box-shadow .25s;
+    
+
+
+}
+
+.text-container{
+    height: 350px;
+    width: 400px;
+    padding: 2em; 
+    background-color: #73D468;
+    border-radius: 37px;
+
+}
+.card-image{
+    position: relative;
+    top: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+   
+}
+
+h2 {
+    padding-top: 1em;
+    color: white;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+}
+p1 { 
+    color: white;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
