@@ -1,15 +1,18 @@
-import './App.css';
-import About from './page/About';
-import Home from './page/Home';
+
+import "./App.css";
 import Categories from './page/Categories';
+import About from './page/About';
+import Header from "./components/header";
+import Navbar from "./components/navbar";
+import React from "react";
 
 function App() {
   return (
     <div className="App">
-     BYUI Hackathon
-     <Home />
-     <About />
-     <Categories />
+      <Navbar />
+      <Header />
+      <About />
+      <Categories />
     </div>
   );
 }
