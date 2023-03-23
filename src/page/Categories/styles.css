@@ -1,0 +1,18 @@
+.categories{
+    background-color: black;
+}
+.title{
+    color:#67AD59 ;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+}
+.cards-container{
+    place-items: center center;
+    padding: 0.5em;
+    grid-gap: 0.5em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 3fr));
+}
