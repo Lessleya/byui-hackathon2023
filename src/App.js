@@ -2,7 +2,7 @@
 import "./App.css";
 import Categories from './page/Categories';
 import About from './page/About';
-import Header from "./components/header";
+import Header from './page/header/header';
 import Navbar from "./components/navbar";
 import React from "react";
 
