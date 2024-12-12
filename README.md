@@ -1,3 +1,9 @@
+## EaseHeal
+EASEHEAL is a comprehensive online resource that offers support, guidance, and encouragement to those who are grieving. The app is designed to help users navigate the complex emotions and challenges that come with the grieving process and to provide them with the tools and resources they need to move forward.
+
+<img width="1236" alt="Screenshot 2024-12-11 at 10 27 40 PM" src="https://github.com/user-attachments/assets/403ac6d5-8a2e-496e-9e42-dbc6b8c02506" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
